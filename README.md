@@ -7,7 +7,7 @@ This is my *veeery quuuick* W10M port of Quake2 project. :)
 Main goal: do some testing/exploration of new "native" MonoGame.Framework.WindowsUniversal v3.7.1.189 package and try to aplly it for Quake2 xna world... :)
 
 ## Status of my Quake2 porting
-- Init state ("project template"/draft; I found at CodePlex some very oooold Quake2 XNA solution...)
+- Init state ("project template"/draft; a few year(s) ago I found some very oooold Quake2 XNA solution at discontinued CodePlex...)
 
 ## How to create your own UWP XNA game? 
 
